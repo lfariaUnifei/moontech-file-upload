@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/lfariaUnifei/moontech-file-upload"
   },
   "author": {
     "name": "Luã Faria",
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/lfariaUnifei/moontech-file-upload/issues"
   },
   "devDependencies": {
     "@angular/common": "^5.0.0",
