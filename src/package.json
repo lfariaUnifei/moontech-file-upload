@@ -1,0 +1,32 @@
+{
+  "name": "moontech-file-upload",
+  "version": "0.12.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Luã Faria",
+    "email": "lfaria@unifei.edu.br"
+  },
+  "keywords": [
+    "angular",
+    "file",
+    "upload",
+    "paralel"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "moontech-file-upload.umd.js",
+  "module": "moontech-file-upload.js",
+  "jsnext:main": "moontech-file-upload.js",
+  "typings": "moontech-file-upload.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4",
+    "uuid": "^3.3.2"
+  }
+}
